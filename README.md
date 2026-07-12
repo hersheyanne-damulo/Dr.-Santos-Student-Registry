@@ -18,3 +18,11 @@ Find someone quickly by their ID.
 List students who hit a certain GPA target.
 
 See everyone under a specific Major.
+
+This are the test result of my program
+<img width="1852" height="1043" alt="image" src="https://github.com/user-attachments/assets/9d5a7b19-7108-4dd3-84ca-d57a23c046e9" />
+<img width="1582" height="851" alt="image" src="https://github.com/user-attachments/assets/48cb5bda-a747-4668-94c6-39cff227a059" />
+<img width="1543" height="696" alt="image" src="https://github.com/user-attachments/assets/23380901-5fad-4e14-b444-7a4b80b02bf2" />
+
+
+
