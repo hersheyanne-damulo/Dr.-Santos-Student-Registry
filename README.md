@@ -18,21 +18,3 @@ Find someone quickly by their ID.
 List students who hit a certain GPA target.
 
 See everyone under a specific Major.
-
-Getting Started
-To run this on your own machine, you just need a C compiler:
-
-Compile the code:
-
-Bash
-gcc -o registry your_filename.c
-Run it:
-
-On Windows: registry.exe
-
-On Mac/Linux: ./registry
-
-Notes
-The current limit is set to 10 students (MAX_STUDENTS).
-
-Since this is a simple in-memory program, the data will reset every time you close the application.
